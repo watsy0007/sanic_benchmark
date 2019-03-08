@@ -20,3 +20,6 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
+测试
+![Screenshot](screenshot.png)
